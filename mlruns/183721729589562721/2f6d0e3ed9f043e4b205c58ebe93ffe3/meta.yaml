@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/alimokh/GitHub/MLFlow-Pytorch/mlruns/183721729589562721/2f6d0e3ed9f043e4b205c58ebe93ffe3/artifacts
+end_time: 1679351473646
+entry_point_name: ''
+experiment_id: '183721729589562721'
+lifecycle_stage: active
+run_id: 2f6d0e3ed9f043e4b205c58ebe93ffe3
+run_name: industrious-wolf-366
+run_uuid: 2f6d0e3ed9f043e4b205c58ebe93ffe3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1679351469474
+status: 3
+tags: []
+user_id: alimokh
